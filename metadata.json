@@ -1,0 +1,6 @@
+{
+  "name": "TOXIC TOOLBOX",
+  "description": "An all-in-one offline-first developer toolkit featuring JSON Studio, Encoding, Hashing, Text Lab, JWT Inspector, HTTP/DNS diagnostics, and developer utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
